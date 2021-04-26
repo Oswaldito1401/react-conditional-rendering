@@ -1,0 +1,22 @@
+.product-row-container {
+    border: 2px solid red;
+    text-align: left;
+    margin-bottom: 2px;
+
+}
+.name{
+    color: rgb(38, 0, 255);
+}
+
+.gender{
+    color: darkgreen;
+
+}
+.note{
+    color: red;
+}
+    
+
+
+
+
